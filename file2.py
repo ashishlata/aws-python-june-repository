@@ -1,0 +1,1 @@
+print('this is demo class and it is a python file')
